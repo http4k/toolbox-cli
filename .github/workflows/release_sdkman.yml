@@ -1,8 +1,0 @@
-on:
-  release:
-    types: [released]
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - run: ls
