@@ -30,7 +30,7 @@ To install Brew, just paste the following into your terminal:
 
 To install the latest http4k Toolbox binary:
 
-```brew tap http4k/toolbox-cli && brew install http4k``` 
+```brew tap http4k/tap && brew install http4k``` 
 
 ... then test it with:
 ```http4k --version```
