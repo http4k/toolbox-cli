@@ -6,7 +6,7 @@ class Http4k < Formula
 
   bottle :unneeded
 
-  depends_on "openjdk"
+  depends_on "adoptopenjdk11"
 
   def install
     rm Dir["bin/*.bat"]
